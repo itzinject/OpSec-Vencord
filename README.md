@@ -150,5 +150,6 @@ This plugin corrects grammar and spelling. Use responsibly. Some people type wei
 GPL-3.0-or-later
 
 ## Credits
+This vencord plugin got it's original idea from [Aurick's](https://github.com/aurickk) [Opsec Mod.](https://github.com/aurickk/OpSec) 
 
 Based on [Vencord](https://github.com/Vendicated/Vencord) plugin system.
