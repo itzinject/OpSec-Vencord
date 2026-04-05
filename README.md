@@ -23,7 +23,7 @@ A Vencord plugin that fixes your grammar, spelling, and punctuation before you s
 
 ```
 cd Vencord/src/userplugins
-git clone https://github.com/itzinject/OpSec-Vencord
+git clone https://github.com/1nject-s-Vencord-Plugins/OpSec
 ```
 
 4. Build and inject
